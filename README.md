@@ -24,7 +24,7 @@ The dataset used for this project is named House Pricing.csv. It contains inform
 2. Explore the dataset using visualizations and descriptive statistics.
 3. Preprocess the data by handling missing values, encoding categorical variables, and scaling numerical features.
 4. Split the dataset into training and testing sets.
-5. Develop regression models such as Linear Regression or Polynomial Regression.
+5. Develop regression models such as Linear Regression or Lasso Regression.
 6. Train the models using the training data.
 7. Evaluate the models using appropriate metrics such as R-squared score, Mean Squared Error (MSE), and Root Mean Squared Error (RMSE).
 8. Visualize the results to compare actual vs. predicted house prices.
