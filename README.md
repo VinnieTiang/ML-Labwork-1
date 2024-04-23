@@ -30,9 +30,9 @@ The dataset used for this project is named House Pricing.csv. It contains inform
 8. Visualize the results to compare actual vs. predicted house prices.
 
 ## Results
-R2 score for Linear regression                        : 0.7560355994624842
-R2 score After Lasso Regression Regulation            : 0.7560359120797626
-R2 score After Lasso Regression Regulation (+LassoCV) : 0.7563460243570389
+- R2 score for Linear regression                        : 0.7560355994624842
+- R2 score After Lasso Regression Regulation            : 0.7560359120797626
+- R2 score After Lasso Regression Regulation (+LassoCV) : 0.7563460243570389
 
 ## Conclusion
 The project demonstrates the application of regression techniques to predict house prices. Further experimentation with hyperparameters and model selection could potentially improve the predictive performance.
